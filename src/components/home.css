@@ -1,0 +1,109 @@
+.home_first_div {
+  height: 470px;
+  width: 100%;
+  background: linear-gradient(180deg, #000408, #102445);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.home_main_div {
+  height: 470px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: 0px;
+  padding: auto;
+  color: #ffffff;
+}
+.home_main_div h1 {
+  margin: 0;
+  padding: 0;
+  margin-top: 0px;
+  font-size: 5rem;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Quicksand", sans-serif;
+}
+.home_main_div h2 {
+  font-size: 3rem;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Quicksand", sans-serif;
+}
+.home_main_div p {
+  font-size: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Quicksand", sans-serif;
+}
+.home_hide_div {
+  height: 100px;
+  width: auto;
+}
+
+/****************************************************************/
+.home_second_div {
+  height: 550px;
+  width: 100%;
+  background: linear-gradient(180deg, #102445, #230c7e);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.home_third_div {
+  height: 550px;
+  width: 100%;
+  background: linear-gradient(180deg, #230c7e, #8661cc);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.home_fourth_div {
+  height: 550px;
+  width: 100%;
+  background: linear-gradient(180deg, #8661cc, #ffffff);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.home_fifth_div {
+  height: 250px;
+  width: 100%;
+  background: linear-gradient(180deg, #ffffff, #ffffff);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.product_div_1 {
+  height: 450px;
+  width: 1200px;
+  margin: auto;
+  padding: auto;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+.product_div_2 {
+  height: 450px;
+  width: 1200px;
+  margin: auto;
+  padding: auto;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+.product_div_3 {
+  height: 450px;
+  width: 1200px;
+  margin: auto;
+  padding: auto;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 4px 1px #b3b3b3;
+}
+.product_div_4 {
+  height: 200px;
+  width: 1200px;
+  margin: auto;
+  padding: auto;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 4px 1px #b3b3b3;
+}

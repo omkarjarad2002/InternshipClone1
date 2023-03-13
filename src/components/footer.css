@@ -1,0 +1,26 @@
+footer {
+  height: 450px;
+  width: 100%;
+  /* background: linear-gradient(180deg, #c4c8ce, #eef9fd); */
+  background: linear-gradient(180deg, #c1d1d4, #f1eefe);
+}
+.footer_div_1 {
+  height: 350px;
+  width: 100%;
+  /* background: linear-gradient(180deg, #c4c8ce, #eef9fd); */
+  background: linear-gradient(180deg, #c1d1d4, #f1eefe);
+}
+.footer_div_2 {
+  height: 100px;
+  width: 100%;
+  /* background: linear-gradient(180deg, #c4c8ce, #eef9fd); */
+  background: linear-gradient(180deg, #f1eefe, #f1eefe);
+}
+hr {
+  color: #f1eefe;
+  margin: 0;
+  padding: 0;
+  width: 90%;
+  margin-left: 70px;
+  border: 1px solid transparent;
+}
