@@ -12,7 +12,9 @@ ul li {
   padding: 4px;
   font-family: "Montserrat", sans-serif;
   font-family: "Quicksand", sans-serif;
+  cursor: pointer;
 }
+
 .items_first_box {
   display: flex;
   width: 78%;
@@ -52,8 +54,16 @@ ul li {
   background-color: #ffffffe9;
   border: 1px solid #ffffffe9;
 }
-.items_second_box .search_box:hover {
-  margin-top: -12px;
+.items_second_box .search_box input {
+  height: 35px;
+  width: 160px;
+  border-radius: 20px;
+  background-color: #ffffffe9;
+  border: 1px solid #ffffffe9;
+}
+
+.items_second_box .search_box input:hover {
+  margin-top: 0px;
   height: 35px;
   width: 160px;
   border-radius: 20px;
